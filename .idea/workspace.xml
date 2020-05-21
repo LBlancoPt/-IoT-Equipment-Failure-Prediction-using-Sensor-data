@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6f78d36-0e60-422f-b01f-436c54059302" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/metadata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf_matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/conf_matrix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iotfailure_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/iotfailure_prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,14 @@
       <workItem from="1587745707840" duration="1183000" />
       <workItem from="1587753796047" duration="376000" />
       <workItem from="1588241427956" duration="559000" />
+      <workItem from="1588254323227" duration="370000" />
+      <workItem from="1588258139194" duration="10000" />
+      <workItem from="1588339550556" duration="292000" />
+      <workItem from="1588346949426" duration="5000" />
+      <workItem from="1588530989888" duration="15000" />
+      <workItem from="1588618391837" duration="331000" />
+      <workItem from="1589921151303" duration="780000" />
+      <workItem from="1590003400420" duration="371000" />
     </task>
     <servers />
   </component>
@@ -54,14 +64,16 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="229" y="104" key="SettingsEditor" timestamp="1587756010041">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="229" y="104" key="SettingsEditor" timestamp="1590068625319">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587593178799" />
+    <state x="229" y="104" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1590068625319" />
     <state x="229" y="104" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1587756010041" />
-    <state x="390" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1587564462156">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="390" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1590003400534">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
+    <state x="390" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1590003400534" />
     <state x="390" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1587564462156" />
   </component>
 </project>
